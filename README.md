@@ -58,7 +58,6 @@ MARKDOWN 정리, 실습 for README.md
 ```swift
 def run(): 
   print("hello")
-}
 ```
 
 ### [체크박스]
